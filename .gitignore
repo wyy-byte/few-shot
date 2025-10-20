@@ -1,0 +1,11 @@
+__pycache__/
+logs/
+photo/
+picture/
+best_seg.pth
+checkpoint.pth
+best_sup_only.pth
+checkpoint_sup.pth
+checkpoint_fine.pth
+best_repri.pth
+best_finetune.pth
